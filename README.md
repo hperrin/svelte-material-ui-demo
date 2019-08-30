@@ -1,8 +1,6 @@
-# Svelte Material UI Demo
+# Moved Again
 
-A demo of [Svelte Material UI](https://github.com/hperrin/svelte-material-ui/), in super Svelte-y colors!
-
-This repo is set up to expect Svelte Material UI to be available in a sibling directory named 'svelte-material-ui'.
+The demo moved back to [Svelte Material UI](https://github.com/hperrin/svelte-material-ui/).
 
 # License
 
